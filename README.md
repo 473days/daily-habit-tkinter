@@ -18,5 +18,5 @@ Eine grundlegende Gewohnheitsverfolgungsanwendung, die mit Python und Tkinter er
 
 ## Nächste Schritte
 - ein Logo hinzufügen
-- Erstellen eine schönere und kompaktere Benutzeroberfläche
+- Erstellen eine schönere und kompaktere UI
 - vielleicht auch einen Kalender-Tracker hinzufügen
