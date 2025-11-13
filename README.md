@@ -1,18 +1,22 @@
+# Einfacher Habits-Tracker
 
-# Simple Habit Tracker
+Eine grundlegende Gewohnheitsverfolgungsanwendung, die mit Python und Tkinter erstellt wurde.
 
-A basic habit tracking application built with Python and Tkinter.
+## Funktionen
+- Neue Gewohnheiten hinzufügen
+- Markieren Sie Gewohnheiten als abgeschlossen
+- Gewohnheiten löschen
+- Datenpersistenz
 
-## Features
-- Add new habits
-- Mark habits as completed
-- Delete habits
-- Data persistence
+## Wie läuft man
+1. Stellen Sie sicher, dass Python installiert ist
+2. Lauf: python main.py
 
-## How to Run
-1. Make sure you have Python installed
-2. Run: python main.py
+## Anforderungen
+- Python 3.x 
+- Tinter
 
-## Requirements
-- Python 3.x
-- Tkinter 
+## Nächste Schritte
+- ein Logo hinzufügen
+- Erstellen Sie eine schönere und kompaktere Benutzeroberfläche
+- vielleicht auch einen Kalender-Tracker hinzufügen
